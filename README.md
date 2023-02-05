@@ -68,4 +68,9 @@ GROUP BY
 	cat.category_name,
 	sto.store_name,
 	CONCAT(sta.first_name,' ',sta.last_name)
+	
+
+## Dashboard Tableau 
+ https://public.tableau.com/app/profile/angelo.jeffrey.castillo.p.rez/viz/BikeStoreDashboard_16755725102730/BikeStore_Dashboard
+
 
