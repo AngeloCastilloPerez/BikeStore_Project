@@ -73,4 +73,12 @@ go
 ## Dashboard Tableau 
  https://public.tableau.com/app/profile/angelo.jeffrey.castillo.p.rez/viz/BikeStoreDashboard_16755725102730/BikeStore_Dashboard
 
-
+<a href="https://www.instagram.com/angelocastilloperz/">
+  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://twitter.com/AngeloCasell">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/castilloperz/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
