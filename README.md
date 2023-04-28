@@ -1,6 +1,9 @@
 ### BikeStore Project
 ## SQL / Excel / Tableau
 
+![image](https://user-images.githubusercontent.com/107339963/235015896-ac5dab48-6a92-4a8c-9813-bceb57c5ae02.png)
+
+
 Primero, debe descargar el siguiente archivo zip si no lo ha hecho:
 
 https://www.sqlservertutorial.net/wp-content/uploads/SQL-Server-Sample-Database.zip
